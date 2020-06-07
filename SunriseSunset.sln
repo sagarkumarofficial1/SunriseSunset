@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SunriseSunset", "SunriseSun
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIData", "APIData\APIData.csproj", "{F2D31580-415C-4C49-9E59-964E5C9DD14F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{41DF0B10-F6EB-4348-BC8F-A257883744A8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{F2D31580-415C-4C49-9E59-964E5C9DD14F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F2D31580-415C-4C49-9E59-964E5C9DD14F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2D31580-415C-4C49-9E59-964E5C9DD14F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41DF0B10-F6EB-4348-BC8F-A257883744A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41DF0B10-F6EB-4348-BC8F-A257883744A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41DF0B10-F6EB-4348-BC8F-A257883744A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41DF0B10-F6EB-4348-BC8F-A257883744A8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
